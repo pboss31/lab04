@@ -1,0 +1,11 @@
+td {
+    border: 2px solid black;
+    height: 75px;
+    width: 170px;
+    cursor: pointer;
+    background-color: rgb(253, 253, 253);
+    }
+
+.black {
+    background-color: black;
+}
